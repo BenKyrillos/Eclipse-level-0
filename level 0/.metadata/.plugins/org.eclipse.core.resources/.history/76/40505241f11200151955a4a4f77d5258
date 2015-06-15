@@ -1,0 +1,19 @@
+package test;
+
+import javax.swing.JOptionPane;
+
+public class test {
+	public static void main(String[] args) {
+		//int age = 489;
+		//JOptionPane.showMessageDialog(null,);
+		//String city= "Moscow";
+		//JOptionPane.showMessageDialog(null,city);
+		//city=JOptionPane.showInputDialog("enter a city");
+		//JOptionPane.showMessageDialog(null, city);
+		String adjective = JOptionPane.showInputDialog("enter a adjective");
+		JOptionPane.showMessageDialog(null, adjective);
+		String noun = JoptionPane.showInputDialog("enter a noun");
+		JOptionPane.showMessageDialog(null, noun);
+		
+	}
+}

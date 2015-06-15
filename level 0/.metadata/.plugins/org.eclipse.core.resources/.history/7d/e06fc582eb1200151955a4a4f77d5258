@@ -1,0 +1,10 @@
+package test;
+
+import javax.swing.JOptionPane;
+
+public class test {
+	public static void main(String[] args) {
+		int age=489;
+		JOptionPane.showMessageDialog(null,"Happy Sunday");
+	}
+}
